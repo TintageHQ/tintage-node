@@ -1,4 +1,4 @@
-# Tintage
+# Tintage Node.js SDK
 
 Tintage SDK for Node.js - Image and video rendering platform SDK.
 
