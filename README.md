@@ -1,6 +1,6 @@
-# Tintage Node.js SDK
+# Tintage Node.js Library
 
-Tintage SDK for Node.js - Image and video rendering platform SDK.
+Tintage library for Node.js - Image and video rendering platform SDK.
 
 **⚠️ Warning: This package is not ready for production use. It is currently under active development.**
 
