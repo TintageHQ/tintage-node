@@ -1,0 +1,25 @@
+{
+  "name": "tintage",
+  "version": "0.0.1",
+  "description": "Image and video rendering platform SDK.",
+  "main": "index.js",
+  "author": "Tintage <contact@tintage.com>",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tintage",
+    "image",
+    "video",
+    "generation",
+    "rendering"
+  ],
+  "author": "Tintage <contact@tintage.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TintageHQ/tintage-node.git",
+    "directory": "tintage-node"
+  }
+}
