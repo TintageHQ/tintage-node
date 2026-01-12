@@ -1,6 +1,6 @@
 {
   "name": "tintage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Image and video rendering platform SDK.",
   "main": "index.js",
   "author": "Tintage <contact@tintage.com>",
